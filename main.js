@@ -9,7 +9,7 @@ function setup(){
     video.hide()
 }
  function draw() {
-    image(video, 100, 200, 375, 255);
+    image(video, 200, 100, 475, 355);
     fill(0,175,0);
     stroke(0,175,0);
     circle(20,20,30);
